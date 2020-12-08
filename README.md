@@ -14,11 +14,18 @@
 
 # Тестировать локально
 
+
+
 git clone https://github.com/RomanBoychenko/Forest-Travel
 cd projectForestTravel/docs
-Открыть index.html
 
+
+ 
 # [Онлайн демо](https://boychenko-roman.ru/forest_travel/)
+
+# Открыть index.html
+
+
 
 
 
