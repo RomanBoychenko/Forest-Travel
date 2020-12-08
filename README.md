@@ -9,10 +9,10 @@
  Форма обратной связи
 
 #### Тестировать локально
-- ```
+ ```
  git clone https://github.com/RomanBoychenko/Forest-Travel 
   cd projectForestTravel/docs 
-  - ```
+   ```
 
 
  
